@@ -1,0 +1,6 @@
+framework module Pods_Jysan {
+  umbrella header "Pods-Jysan-umbrella.h"
+
+  export *
+  module * { export * }
+}
